@@ -8,6 +8,7 @@ Implemented Least Significant Bit (LSB) encoding for embedding data within pixel
 Developed a Python-based GUI for easy encryption and decryption of messages within image files.
 Ensured minimal distortion of images to prevent detection of hidden data.
 Incorporated password-based encryption to enhance security before embedding data.
+
 Applications:
 
 Secure communication to prevent unauthorized interception.
